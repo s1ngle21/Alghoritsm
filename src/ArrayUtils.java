@@ -2,7 +2,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class ArrayUtils {
 
-    public ArrayUtils() {
+    private ArrayUtils() {
 
     }
 
